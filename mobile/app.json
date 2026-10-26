@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "TMS - Ticket Management System",
+    "slug": "tms-ticket-management-system",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "tms",
+    "icon": "./assets/tms-icon.png",
+    "android": {
+      "package": "com.mca.complaintmanagement",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/tms-icon.png",
+        "backgroundColor": "#07111F"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.mca.complaintmanagement"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-sharing",
+      "expo-status-bar",
+      "expo-font"
+    ]
+  }
+}

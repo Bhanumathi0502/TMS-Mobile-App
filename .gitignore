@@ -1,0 +1,12 @@
+﻿node_modules/
+**/node_modules/
+.expo/
+**/.expo/
+.venv/
+**/.venv/
+.env
+**/.env
+dist/
+build/
+*.log
+backend/src/uploads/
